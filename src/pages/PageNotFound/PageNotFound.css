@@ -1,0 +1,8 @@
+
+.ascii-art {
+    font-family: monospace;
+    white-space: pre;
+    color:var(--primary);
+    text-align: left !important;
+    margin:auto;
+  }
